@@ -1,4 +1,4 @@
-# GitHub Actions billing
+GitHub Actions billing
 
 Learn how usage of GitHub Actions is measured against your free allowance and how to pay for additional use.
 
